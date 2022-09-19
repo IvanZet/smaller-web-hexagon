@@ -1,4 +1,4 @@
-package net.ivanzykov.app;
+package net.ivanzykov.rater;
 
 import net.ivanzykov.incoming.Result;
 import org.junit.jupiter.api.Test;

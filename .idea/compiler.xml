@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="smaller-web-hexagon" />
+        <module name="incoming" />
+        <module name="rater" />
       </profile>
     </annotationProcessing>
   </component>
