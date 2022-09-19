@@ -9,9 +9,9 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>outcoming</artifactId>
+  <artifactId>outgoing</artifactId>
 
-  <name>outcoming</name>
+  <name>outgoing</name>
   <url>http://ivanzykov.net/</url>
 
   <properties>
