@@ -1,3 +1,4 @@
 /.idea/sonarlint
 /incoming/target
 /rater/target
+/outgoing/target
